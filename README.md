@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy María Thathiana
 
 ## Sobre mí
-- 🔭 Actualmente trabajo de voluntaria para el orfanato de Haruna, pero he sido voluntaria de una ong provida.
+- 🔭 Actualmente ayudo al orfanato de Haruna, pero he sido voluntaria de una ong provida.
 - 🌱 Estoy aprendiendo desarrollo en IOS
 - 👯 Me gustaría colaborar en desarrollo móvil
 - 💬 Pregúntame sobre finanzas, desarrollo web, java, kotlin, ios.
