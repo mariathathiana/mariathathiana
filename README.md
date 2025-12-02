@@ -8,10 +8,10 @@
 - 📫 Cómo contactarme: en mi Linkedln
 
 ## Tecnologías
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Python](https://img.shields.io/badge/-Python-blue)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF)
-![Gradle](https://img.shields.io/badge/-Gradle-6DB33F)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-6DB33F?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
