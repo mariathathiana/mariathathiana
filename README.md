@@ -8,7 +8,7 @@
 - 📫 Cómo contactarme: en mi Linkedln
 
 ## Tecnologías
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-6DB33F?style=for-the-badge&logo=Gradle&logoColor=white)
